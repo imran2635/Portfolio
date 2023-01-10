@@ -1,0 +1,60 @@
+h1{
+
+   color: blue;
+   
+  }
+
+  h2{
+
+    color: rgb(2, 2, 2);
+
+  }
+  
+  p{
+
+    color:rgb(61, 50, 29) ;
+
+  }
+
+  tr{
+
+    color: rgb(82, 68, 43)  ;
+  }
+  image boarder
+  {
+    color:rgb(219, 146, 146)
+  }
+ #section1{
+
+    background-color:chartreuse ;
+ }
+ #section2{
+    background-color: chartreuse;
+ }
+ #section3{
+     background-color: chartreuse ;
+ }
+ #section4{
+     background-color: chartreuse;
+ }
+ #section5{
+     background-color: chartreuse;
+ }
+ #section6{
+     background-color: chartreuse;
+ }
+ #section7{
+     background-color: chartreuse;
+ }
+ tr{
+     background: rgb(166, 166, 180);
+ }
+ td{
+     background-color:rgb(201, 201, 174);
+ }
+ p.italic {
+    font-style: italic;
+  }
+ .info{
+   font-size: 18px;
+ }
